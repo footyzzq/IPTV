@@ -45,7 +45,7 @@ http://113.100.72.40:8899/udp/239.77.1.126:5146
 http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel47/1300.m3u8
 #EXTINF:-1,深圳娱乐
 http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel49/1300.m3u8
-#EXTINF:-1,广东IPTV测试1
+#EXTINF:-1,广东IPTV精品测试3
 http://113.68.179.40:4022/udp/239.77.1.9:5146
-#EXTINF:-1,广东IPTV测试2
+#EXTINF:-1,广东IPTV精品测试1
 http://113.68.179.40:4022/udp/239.77.1.7:5146
