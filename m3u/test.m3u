@@ -63,3 +63,49 @@ http://ygbh.live/1905.php?id=1905b
 http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 #EXTINF:-1 group-title="网络电影",武
 http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
+#EXTINF:-1 group-title="香港-备",凤凰中文
+http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
+#EXTINF:-1 group-title="香港-备",凤凰中文
+http://www.91dos.cn:4022/udp/239.61.2.184:9092$高清
+#EXTINF:-1 group-title="香港-备",凤凰中文
+http://www.91dos.cn:4022/udp/239.61.5.48:1025$高清
+#EXTINF:-1 group-title="香港-备",凤凰资讯
+http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
+#EXTINF:-1 group-title="香港-备",凤凰资讯
+http://www.91dos.cn:4022/udp/239.61.5.47:1025$高清
+#EXTINF:-1 group-title="香港-备",凤凰资讯
+http://www.91dos.cn:4022/udp/239.61.2.183:9086$高清
+#EXTINF:-1 group-title="香港-备",凤凰香港台
+http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
+#EXTINF:-1 group-title="香港-备",凤凰香港
+http://grandprix2023.asuscomm.com:8892/bysid/85.m3u8$高清
+#EXTINF:-1 group-title="香港-备",TVB J2
+http://php.jdshipin.com:8880/smt.php?id=j2_twn
+#EXTINF:-1 group-title="香港-备",翡翠台
+http://php.jdshipin.com:8880/smt.php?id=jade_twn
+#EXTINF:-1 group-title="香港-备",明珠台
+http://php.jdshipin.com:8880/smt.php?id=pearl_twn
+#EXTINF:-1 group-title="香港-备",无线新闻台
+http://php.jdshipin.com:8880/smt.php?id=inews_twn
+#EXTINF:-1 group-title="香港-备",星光综合台
+http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
+#EXTINF:-1 group-title="香港-备",RTHK33频道
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
+#EXTINF:-1 group-title="香港-备",RTHK33频道
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
+#EXTINF:-1 group-title="香港-备",RTHK34频道
+https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8
+#EXTINF:-1 group-title="香港-备",RTHK34频道
+https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
+#EXTINF:-1 group-title="香港-备",RTHK35频道
+https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
+#EXTINF:-1 group-title="香港-备",RTHK35频道
+https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
+#EXTINF:-1 group-title="香港-备",TVB娱乐新闻台
+http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
+#EXTINF:-1 group-title="香港-备",TVB星河
+http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
+#EXTINF:-1 group-title="香港-备",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 group-title="香港-备",澳门卫视
+https://live.mastvnet.com/lsdream/MSTV/1500/live.m3u8
