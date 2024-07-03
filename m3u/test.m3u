@@ -109,3 +109,42 @@ http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 group-title="香港-备",澳门卫视
 https://live.mastvnet.com/lsdream/MSTV/1500/live.m3u8
+#EXTINF:-1 group-title="台湾其它-备",八大戏剧
+http://61.221.215.25:8800/hls/39/index.m3u8
+#EXTINF:-1 group-title="台湾其它-备",八大综合
+http://61.221.215.25:8800/hls/56/index.m3u8
+#EXTINF:-1 group-title="台湾其它-备",八大第一台
+http://61.221.215.25:8800/hls/55/index.m3u8
+#EXTINF:-1 group-title="台湾其它-备",东森美东
+http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+#EXTINF:-1 group-title="台湾其它-备",Tvbs News
+http://61.221.215.25:8800/hls/9/index.m3u8
+#EXTINF:-1 group-title="台湾其它-备",动物星球台
+http://61.221.215.25:8800/hls/57/index.m3u8
+#EXTINF:-1 group-title="台湾其它-备",纬来精采
+http://61.221.215.25:8800/hls/48/index.m3u8
+#EXTINF:-1 group-title="台湾其它-备",番薯音乐
+http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u
+#EXTINF:-1 group-title="台湾其它-备",Da大立電視
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+#EXTINF:-1 group-title="台湾其它-备",纬来体育
+https://cloud.yumixiu768.com/tmp/123.m3u8
+#EXTINF:-1 group-title="台湾其它-备",足球频道
+http://nmglive.imfc.cn/5n1r1c/182396.m3u8
+#EXTINF:-1 group-title="台湾其它-备",FOX体育
+http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7323/index.m3u8
+#EXTINF:-1 group-title="台湾其它-备",ASIA Discoery
+http://61.221.215.25:8800/hls/50/index.m3u8
+#EXTINF:-1 group-title="台湾其它-备",Amc电影台
+http://61.221.215.25:8800/hls/43/index.m3u8
+#EXTINF:-1 group-title="台湾其它-备",CNA新闻
+https://mediacorp-videosbclive.akamaized.net/f4abbc22204c49e2b337203b0ebbf14b/ap-southeast-1/6057994443001/profile_0/chunklist.m3u8
+#EXTINF:-1 group-title="台湾其它-备",CNA新闻
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 group-title="台湾其它-备",WORD
+http://61.221.215.25:8800/hls/1/index.m3u8
+#EXTINF:-1 group-title="台湾其它-备",半岛新闻
+http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+#EXTINF:-1 group-title="台湾其它-备",BBC News Asia Pacific
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
+
