@@ -33,3 +33,33 @@ http://www.91dos.cn:4022/udp/239.61.5.94:1025
 http://www.91dos.cn:4022/udp/239.61.5.97:1025
 #EXTINF:-1 group-title="福建",漳州一套
 http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8
+#EXTINF:-1 group-title="网络电影",斗鱼影视大片1
+http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=3b64dd17d293b133c58bda21e3147e5b&token=cpn-androidmpro-0-20415-b6774b3b3249db1768f0ac048c5ed218ac54e1f82b04b2bf&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+#EXTINF:-1 group-title="网络电影",斗鱼影视
+http://tc-tct.douyucdn2.cn/dyliveflv1a/3637778raLSXdOdu_2000.m3u8
+#EXTINF:-1 group-title="网络电影",斗鱼影视
+http://tc-tct.douyucdn2.cn/dyliveflv1a/85894rmovieChow_2000p.m3u8
+#EXTINF:-1 group-title="网络电影",虎牙电影_宇宙
+https://live.metshop.top/huya/11342428
+#EXTINF:-1 group-title="网络电影",虎牙电影_怪兽
+https://live.metshop.top/huya/21059577
+#EXTINF:-1 group-title="网络电影",虎牙电影_警匪
+https://live.metshop.top/huya/11352886
+#EXTINF:-1 group-title="网络电影",虎牙电影_罪犯
+https://live.metshop.top/huya/11352962
+#EXTINF:-1 group-title="网络电影",虎牙电影_枪战
+https://live.metshop.top/huya/21059579
+#EXTINF:-1 group-title="网络电影",虎牙电影_海盗
+https://live.metshop.top/huya/21059595
+#EXTINF:-1 group-title="网络电影",虎牙电影_赛车
+https://live.metshop.top/huya/11279247
+#EXTINF:-1 group-title="网络电影",斗鱼邵氏影院
+http://www.goodiptv.club/douyu/4246519
+#EXTINF:-1 group-title="网络电影",1905国内电影
+http://ygbh.live/1905.php?id=1905a
+#EXTINF:-1 group-title="网络电影",1905国外电影
+http://ygbh.live/1905.php?id=1905b
+#EXTINF:-1 group-title="网络电影",重温经典
+http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+#EXTINF:-1 group-title="网络电影",武
+http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
