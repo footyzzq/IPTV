@@ -31,8 +31,6 @@ http://117.27.190.42:9998/tsfile/live/23294_1.m3u8
 http://www.91dos.cn:4022/udp/239.61.5.94:1025
 #EXTINF:-1 group-title="福建",福州新闻
 http://www.91dos.cn:4022/udp/239.61.5.97:1025
-#EXTINF:-1 group-title="福建",漳州一套
-http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8
 #EXTINF:-1 group-title="网络电影",斗鱼影视大片1
 http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=3b64dd17d293b133c58bda21e3147e5b&token=cpn-androidmpro-0-20415-b6774b3b3249db1768f0ac048c5ed218ac54e1f82b04b2bf&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 #EXTINF:-1 group-title="网络电影",斗鱼影视
