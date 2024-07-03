@@ -1,51 +1,35 @@
 #EXTM3U
-#EXTINF:-1,泉州新闻
+#EXTINF:-1 group-title="福建",福建综合
+http://www.91dos.cn:4022/udp/239.61.4.1:1025
+#EXTINF:-1 group-title="福建",福建综合
+http://www.91dos.cn:4022/udp/239.61.5.162:1025
+#EXTINF:-1 group-title="福建",福建综合
+http://www.91dos.cn:4022/udp/239.61.5.167:1025
+#EXTINF:-1 group-title="福建",福建新闻
+http://www.91dos.cn:4022/udp/239.61.4.4:1025
+#EXTINF:-1 group-title="福建",福建电视剧
+http://www.91dos.cn:4022/udp/239.61.4.5:1025
+#EXTINF:-1 group-title="福建",福建公共
+http://www.91dos.cn:4022/udp/239.61.4.3:1025
+#EXTINF:-1 group-title="福建",福建教育
+http://www.91dos.cn:4022/udp/239.61.5.60:1025
+#EXTINF:-1 group-title="福建",福建经济
+http://www.91dos.cn:4022/udp/239.61.4.7:1025
+#EXTINF:-1 group-title="福建",福建旅游
+http://www.91dos.cn:4022/udp/239.61.4.6:1025
+#EXTINF:-1 group-title="福建",福建少儿
+http://www.91dos.cn:4022/udp/239.61.4.9:1025
+#EXTINF:-1 group-title="福建",福建文体
+http://www.91dos.cn:4022/udp/239.61.5.44:1025
+#EXTINF:-1 group-title="福建",泉州新闻
 http://live.qztv.cn/live/news.m3u8
-#EXTINF:-1,泉州闽南语
+#EXTINF:-1 group-title="福建",泉州闽南语
 http://live.qztv.cn/live/mny.m3u8
-#EXTINF:-1,厦门2套
+#EXTINF:-1 group-title="福建",厦门1套
 http://117.27.190.42:9998/tsfile/live/23294_1.m3u8
-#EXTINF:-1,广东新闻
-http://113.68.179.40:4022/udp/239.77.0.173:5146
-#EXTINF:-1,广东新闻
-http://113.68.179.40:4022/udp/239.77.0.4:5146
-#EXTINF:-1,广东新闻
-http://113.100.72.40:8899/udp/239.77.0.4:5146
-#EXTINF:-1,广东新闻
-http://125.89.163.44:8888/udp/239.77.0.173:5146
-#EXTINF:-1,广东体育
-http://113.68.179.40:4022/udp/239.77.0.168:5146
-#EXTINF:-1,广东体育
-http://113.68.179.40:4022/udp/239.77.0.6:5146
-#EXTINF:-1,广东体育
-http://113.100.72.40:8899/udp/239.77.0.168:5146
-#EXTINF:-1,广东体育
-http://113.68.179.40:4022/udp/239.77.0.112:5146
-#EXTINF:-1,广东体育
-http://113.100.72.40:8899/udp/239.77.0.112:5146
-#EXTINF:-1,广东珠江
-http://113.68.179.40:4022/udp/239.77.0.114:5146
-#EXTINF:-1,广东珠江
-http://113.68.179.40:4022/udp/239.77.0.3:5146
-#EXTINF:-1,广东珠江
-http://www.recker.cc:4022/udp/239.77.0.1:5146
-#EXTINF:-1,广东珠江
-http://113.100.72.40:8899/udp/239.77.0.3:5146
-#EXTINF:-1,广东民生
-http://113.68.179.40:4022/udp/239.77.0.5:5146
-#EXTINF:-1,广东民生
-http://113.100.72.40:8899/udp/239.77.0.225:5146
-#EXTINF:-1,深圳新闻
-http://php.jdshipin.com:8880/gztv.php?id=xinwen
-#EXTINF:-1,深圳公共
-http://113.68.179.40:4022/udp/239.77.1.178:5146
-#EXTINF:-1,深圳公共
-http://113.100.72.40:8899/udp/239.77.1.126:5146
-#EXTINF:-1,深圳电视剧
-http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel47/1300.m3u8
-#EXTINF:-1,深圳娱乐
-http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel49/1300.m3u8
-#EXTINF:-1,广东IPTV精品测试3
-http://113.68.179.40:4022/udp/239.77.1.9:5146
-#EXTINF:-1,广东IPTV精品测试1
-http://113.68.179.40:4022/udp/239.77.1.7:5146
+#EXTINF:-1 group-title="福建",莆田新闻
+http://www.91dos.cn:4022/udp/239.61.5.94:1025
+#EXTINF:-1 group-title="福建",福州新闻
+http://www.91dos.cn:4022/udp/239.61.5.97:1025
+#EXTINF:-1 group-title="福建",漳州一套
+http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8
