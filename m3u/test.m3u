@@ -7,10 +7,6 @@ http://live.qztv.cn/live/mny.m3u8
 http://www.91dos.cn:4022/udp/239.61.5.97:1025
 #EXTINF:-1 tvg-name="漳州一套" tvg-id="" group-title="福建",漳州一套
 http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8
-#EXTINF:-1 tvg-name="BRTV新闻" tvg-id="" group-title="有线精选",BRTV新闻
-http://bplwberp.zzmd.fun:8888/rtp/239.3.1.159:8000
-#EXTINF:-1 tvg-name="BRTV新闻" tvg-id="" group-title="有线精选",BRTV新闻
-ttp://wg.mxmy.net:8888/rtp/239.3.1.159:8000
 #EXTINF:-1 tvg-name="BRTV影视" tvg-id="" group-title="有线精选",BRTV影视
 http://bplwberp.zzmd.fun:8888/rtp/239.3.1.158:8000
 #EXTINF:-1 tvg-name="BRTV影视" tvg-id="" group-title="有线精选",BRTV影视
@@ -23,32 +19,18 @@ http://wg.mxmy.net:8888/rtp/239.3.1.242:8000
 http://bplwberp.zzmd.fun:8888/rtp/239.3.1.117:8000
 #EXTINF:-1 tvg-name="BRTV生活" tvg-id="" group-title="有线精选",BRTV生活
 http://wg.mxmy.net:8888/rtp/239.3.1.117:8000
-#EXTINF:-1 tvg-name="BRTV青年" tvg-id="" group-title="有线精选",BRTV青年
-http://bplwberp.zzmd.fun:8888/rtp/239.3.1.118:8000
-#EXTINF:-1 tvg-name="BRTV青年" tvg-id="" group-title="有线精选",BRTV青年
-http://wg.mxmy.net:8888/rtp/239.3.1.118:8000
-#EXTINF:-1 tvg-name="BTV国际" tvg-id="" group-title="有线精选",BTV国际
-http://bplwberp.zzmd.fun:8888/rtp/239.3.1.235:8000
 #EXTINF:-1 tvg-name="BTV国际" tvg-id="" group-title="有线精选",BTV国际
 http://wg.mxmy.net:8888/rtp/239.3.1.235:8000
 #EXTINF:-1 tvg-name="淘电影HD" tvg-id="" group-title="有线精选",淘电影HD
 http://bplwberp.zzmd.fun:8888/rtp/239.3.1.250:8001
 #EXTINF:-1 tvg-name="淘电影HD" tvg-id="" group-title="有线精选",淘电影HD
 http://wg.mxmy.net:8888/rtp/239.3.1.250:8001
-#EXTINF:-1 tvg-name="每日影院" tvg-id="" group-title="有线精选",每日影院
-http://bplwberp.zzmd.fun:8888/rtp/239.3.1.111:8001
-#EXTINF:-1 tvg-name="每日影院" tvg-id="" group-title="有线精选",每日影院
-http://wg.mxmy.net:8888/rtp/239.3.1.111:8001
-#EXTINF:-1 tvg-name="星影" tvg-id="" group-title="有线精选",星影
-http://bplwberp.zzmd.fun:8888/rtp/239.3.1.94:4120
 #EXTINF:-1 tvg-name="星影" tvg-id="" group-title="有线精选",星影
 http://wg.mxmy.net:8888/rtp/239.3.1.94:4120
 #EXTINF:-1 tvg-name="动作影院" tvg-id="" group-title="有线精选",动作影院
 http://bplwberp.zzmd.fun:8888/rtp/239.3.1.92:4120
 #EXTINF:-1 tvg-name="动作影院" tvg-id="" group-title="有线精选",动作影院
 http://wg.mxmy.net:8888/rtp/239.3.1.92:4120
-#EXTINF:-1 tvg-name="光影" tvg-id="" group-title="有线精选",光影
-http://bplwberp.zzmd.fun:8888/rtp/239.3.1.84:4120
 #EXTINF:-1 tvg-name="光影" tvg-id="" group-title="有线精选",光影
 http://wg.mxmy.net:8888/rtp/239.3.1.84:4120
 #EXTINF:-1 tvg-name="喜剧影院" tvg-id="" group-title="有线精选",喜剧影院
@@ -64,8 +46,6 @@ http://bplwberp.zzmd.fun:8888/rtp/239.3.1.74:4120
 #EXTINF:-1 tvg-name="精选" tvg-id="" group-title="有线精选",精选
 http://wg.mxmy.net:8888/rtp/239.3.1.74:4120
 #EXTINF:-1 tvg-name="经典电影" tvg-id="" group-title="有线精选",经典电影
-http://bplwberp.zzmd.fun:8888/rtp/239.3.1.195:9024
-#EXTINF:-1 tvg-name="经典电影" tvg-id="" group-title="有线精选",经典电影
 http://wg.mxmy.net:8888/rtp/239.3.1.195:9024
 #EXTINF:-1 tvg-name="音乐现场" tvg-id="" group-title="有线精选",音乐现场
 http://bplwberp.zzmd.fun:8888/rtp/239.3.1.70:4120
@@ -80,13 +60,7 @@ http://bplwberp.zzmd.fun:8888/rtp/239.3.1.76:4120
 #EXTINF:-1 tvg-name="军事" tvg-id="" group-title="有线精选",军事
 http://wg.mxmy.net:8888/rtp/239.3.1.76:4120
 #EXTINF:-1 tvg-name="热播剧场" tvg-id="" group-title="有线精选",热播剧场
-http://bplwberp.zzmd.fun:8888/rtp/239.3.1.194:9020
-#EXTINF:-1 tvg-name="热播剧场" tvg-id="" group-title="有线精选",热播剧场
 http://wg.mxmy.net:8888/rtp/239.3.1.194:9020
-#EXTINF:-1 tvg-name="中华美食" tvg-id="" group-title="有线精选",中华美食
-http://110.243.112.171:4000/rtp/239.253.93.248:6426
-#EXTINF:-1 tvg-name="中华美食" tvg-id="" group-title="有线精选",中华美食
-http://60.4.3.246:8888/rtp/239.253.93.248:6426
 #EXTINF:-1 tvg-name="第一剧场" tvg-id="" group-title="有线精选",第一剧场
 http://110.243.112.171:4000/rtp/239.253.93.138:6428
 #EXTINF:-1 tvg-name="第一剧场" tvg-id="" group-title="有线精选",第一剧场
@@ -99,30 +73,6 @@ http://nas.hssvm.com:8888/udp/225.1.2.174:5002
 http://110.243.112.171:4000/rtp/239.253.93.253:6431
 #EXTINF:-1 tvg-name="风云音乐" tvg-id="" group-title="有线精选",风云音乐
 http://nas.hssvm.com:8888/udp/225.1.2.176:5002
-#EXTINF:-1 tvg-name="风云足球" tvg-id="" group-title="有线精选",风云足球
-http://110.243.112.171:4000/rtp/239.253.93.254:6432
-#EXTINF:-1 tvg-name="风云足球" tvg-id="" group-title="有线精选",风云足球
-http://nas.hssvm.com:8888/udp/225.1.2.83:5002
-#EXTINF:-1 tvg-name="FTV足球" tvg-id="" group-title="有线精选",FTV足球
-http://nas.hssvm.com:8888/udp/225.1.2.83:5002
-#EXTINF:-1 tvg-name="FTV足球" tvg-id="" group-title="有线精选",FTV足球
-http://221.198.182.212:8888/udp/225.1.2.83:5002
-#EXTINF:-1 tvg-name="魅力足球" tvg-id="" group-title="有线精选",魅力足球
-http://nas.hssvm.com:8888/udp/225.1.1.137:5002
-#EXTINF:-1 tvg-name="魅力足球" tvg-id="" group-title="有线精选",魅力足球
-http://221.198.182.212:8888/udp/225.1.1.137:5002
-#EXTINF:-1 tvg-name="4K私享家" tvg-id="" group-title="有线精选",4K私享家
-http://nas.hssvm.com:8888/udp/225.1.1.156:5002
-#EXTINF:-1 tvg-name="4K私享家" tvg-id="" group-title="有线精选",4K私享家
-http://221.198.182.212:8888/udp/225.1.1.156:5002
-#EXTINF:-1 tvg-name="4K影视" tvg-id="" group-title="有线精选",4K影视
-http://nas.hssvm.com:8888/udp/225.1.2.190:5002
-#EXTINF:-1 tvg-name="4K影视" tvg-id="" group-title="有线精选",4K影视
-http://221.198.182.212:8888/udp/225.1.2.190:5002
-#EXTINF:-1 tvg-name="法制天地" tvg-id="" group-title="有线精选",法制天地
-http://nas.hssvm.com:8888/udp/225.1.1.237:5002
-#EXTINF:-1 tvg-name="法制天地" tvg-id="" group-title="有线精选",法制天地
-http://221.198.182.212:8888/udp/225.1.1.237:5002
 #EXTINF:-1 tvg-name="斗鱼影视大片1" tvg-id="" group-title="网络电影",斗鱼影视大片1
 http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=3b64dd17d293b133c58bda21e3147e5b&token=cpn-androidmpro-0-20415-b6774b3b3249db1768f0ac048c5ed218ac54e1f82b04b2bf&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 #EXTINF:-1 tvg-name="斗鱼影视1" tvg-id="" group-title="网络电影",斗鱼影视1
