@@ -18,7 +18,7 @@ http://117.27.190.42:9998/tsfile/live/23293_1.m3u8
 #EXTINF:-1 tvg-name="厦门-2" tvg-id="" group-title="福建",厦门-2
 http://117.27.190.42:9998/tsfile/live/23294_1.m3u8
 #EXTINF:-1 tvg-name="福建综合" tvg-id="" group-title="福建",福建综合
-福建综合, http://117.27.190.42:9998/tsfile/live/23284_1.m3u8
+http://117.27.190.42:9998/tsfile/live/23284_1.m3u8
 #EXTINF:-1 tvg-name="福建新闻" tvg-id="" group-title="福建",福建新闻
 http://117.27.190.42:9998/tsfile/live/23286_1.m3u8
 #EXTINF:-1 tvg-name="BTV国际" tvg-id="" group-title="有线精选",BTV国际
